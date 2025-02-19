@@ -1,2 +1,4 @@
 # py-tons
-Repo untuk dokumen Python 3
+![result](python-logo.png)
+## Deskripsi
+Repository python yang dipublikasi, tanpa alasan.
