@@ -2,6 +2,7 @@
 ![result](python-logo.png)
 ## Deskripsi
 Repository python dari dokumen *Basis Python 3*
+
 ## Tentang Python
 Python adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991, filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan. Konstruksi bahasanya dan pendekatan berorientasi objek bertujuan untuk membantu pemrogram menulis kode yang jelas dan logis untuk proyek skala kecil dan besar.
 ### Installing Python
@@ -15,5 +16,7 @@ Jika output adalah:
 ```py
 Python 3.13.2
 ```
-
 Maka Python sudah terinstall
+
+## Referensi Repo
+Untuk mengetahui repository ini tentang apa, lihat: https://docs.google.com/document/d/12_j2xAdZRue51DrCAmeLJCwtxm5bodBtZxM2ExX1iwo/edit?usp=sharing
