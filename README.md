@@ -18,5 +18,31 @@ Python 3.13.2
 ```
 Maka Python sudah terinstall
 
+## Menjalankan Python
+### Menggunakan Interactive sSell
+Untuk menjalankan Python, buka interactive shell-mu/terminal - lalu ketik:
+```py
+py
+```
+Seharusnya pada console-mu sudah terlihat simbol `>>>` yang itu berarti interactive shell sedang berjalan,  
+kalian hanya perlu memasukkan syntax pada prompt console, seperti:
+```py
+print('Hello World!')
+```
+Maka console akan mengembalikkan:
+```
+Hello World!
+```
+
+### Menggunakan File
+Kalian hanya perlu melakukan command dibawah pada terminal-mu pada text-editor atau komputer:
+```py
+py file_kamu.py
+
+# atau
+
+python file_kamu.py
+```
+
 ## Referensi Repo
 Untuk mengetahui repository ini tentang apa, lihat: https://docs.google.com/document/d/12_j2xAdZRue51DrCAmeLJCwtxm5bodBtZxM2ExX1iwo/edit?usp=sharing
