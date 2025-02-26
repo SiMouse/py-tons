@@ -9,7 +9,7 @@ Python adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. D
 Download Python di: [python.org](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe)
 
 Setelah download lalu install, lalu check di terminal-mu
-```py
+```
 py --version
 ```
 Jika output adalah:
